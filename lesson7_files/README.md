@@ -88,7 +88,8 @@ data_analysis/
    jupyter notebook EDA_Refactored.ipynb
    ```
 
-### Note: You should always to use windows shell to run commands
+### Note: You should always to use windows shell to run commands, and make sure you don't use bash shell in any cases.
+
 
 ## Usage Guide
 
