@@ -4,6 +4,7 @@ A comprehensive business intelligence solution featuring both Jupyter notebook a
 
 ## Overview
 
+
 This project transforms a basic exploratory data analysis into a professional, maintainable business intelligence framework. The refactored solution provides:
 
 - **Configurable Analysis**: Easily analyze any time period or compare different years
@@ -86,6 +87,8 @@ data_analysis/
    ```bash
    jupyter notebook EDA_Refactored.ipynb
    ```
+
+### Note: You should always to use windows shell to run commands
 
 ## Usage Guide
 
